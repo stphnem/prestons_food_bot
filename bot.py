@@ -4,7 +4,7 @@ from discord.ext import commands
 from food_picker import pick_cuisine
 
 
-TOKEN = 'MTEwODIzNDQ3NDMwODc3NjAwNg.GPLnns.4eyC7YhLkXs9i8YLc7H2NqbF8R5Rf3wRgC5bJg'
+TOKEN = 'fill_token_here'
 
 ### Bot Setup Code
 intents = discord.Intents.default()
